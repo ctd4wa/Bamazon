@@ -16,23 +16,23 @@ The customer runs via these steps:
 ## BamazonManager
  The manager application begins with an inquirer prompt to choose one of four functions.
  
-  ![ManagerPrompt](/images/ManagerPrompt.jpg)
+![ManagerPrompt](/images/ManagerPrompt.jpg)
   
   - The "View Products" option will list every item.
   
-  ![ProductsForSale](/images/ProductsForSale.jpg)
+![ProductsForSale](/images/ProductsForSale.jpg)
   
   - "View Low Inventory" allows the user to see any items that have less than 5 in inventory currently.
   
-  ![LowInventory](/images/LowInventory.jpg)
+![LowInventory](/images/LowInventory.jpg)
   
   - "Add to Inventory" prompts the user to restock any item currently for sale.
   
-  ![AddInventory](/images/AddInventory.jpg)
+![AddInventory](/images/AddInventory.jpg)
   
   - "Add New Product" gives the manager the chance to add a brand new item to the store.
   
-  ![AddNewProduct](/images/AddNewProduct.jpg)
+![AddNewProduct](/images/AddNewProduct.jpg)
   
  ## Technologies Used
  
