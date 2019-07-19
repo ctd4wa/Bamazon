@@ -132,7 +132,7 @@ function newProduct() {
         },
         {
             type: "input",
-            message: "What is the departnment name of your item?",
+            message: "What is the department name of your item?",
             name: "department",
         },
         {
