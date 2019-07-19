@@ -16,7 +16,7 @@ The customer runs via these steps:
 ## BamazonManager
  The manager application begins with an inquirer prompt to choose one of four functions.
  
-![ManagerPrompt](images/ManagerPrompt.jpg)
+![ManagerPrompt](/images/ManagerPrompt.jpg)
   
   - The "View Products" option will list every item.
   
