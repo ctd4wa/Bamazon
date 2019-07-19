@@ -8,10 +8,10 @@ var connection = mysql.createConnection({
     host: "localhost",
     port: 3306,
 
-    // Your username
+    // username
     user: "github",
 
-    // Your password
+    // password
     password: "github",
     database: "bamazon_db"
 });
@@ -22,7 +22,7 @@ connection.connect(function (err) {
     displayProducts();
 });
 
-//function that displays all product information
+
 function displayProducts() {
     connection.query("SELECT * FROM products", function (err, res) {
         if (err) {
@@ -38,7 +38,7 @@ function displayProducts() {
     });
 };
 
-//buying prompts
+//purchasing prompts
 function promptCustomer() {
     connection.query("SELECT * FROM products", function (err, res) {
         if (err) console.log(err);
