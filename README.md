@@ -9,22 +9,22 @@ The customer runs via these steps:
   - The user is then prompted to choose an item and quantity to purchase.
   - If the store has the item in stock in order to full the purchase, the database will update to show the remaining quantity.
   
-  ![ConfirmPurchase]
+  ![ConfirmPurchase](https://github.com/ctd4wa/Bamazon/blob/master/images/ConfirmPurchase.JPG?raw=true)
   
   - If a request is made and the store does not have the item in stock, the user will be alerted that there is not enough to fill the order.
   
 ## BamazonManager
  The manager application begins with an inquirer prompt to choose one of four functions.
  
-![ManagerPrompt](/images/ManagerPrompt.jpg)
+![ManagerPrompt](https://github.com/ctd4wa/Bamazon/blob/master/images/ManagerPrompt.JPG?raw=true)
   
   - The "View Products" option will list every item.
   
-![ProductsForSale](/images/ProductsForSale.jpg)
+![ProductsForSale](https://github.com/ctd4wa/Bamazon/blob/master/images/ProductsForSale.JPG?raw=true)
   
   - "View Low Inventory" allows the user to see any items that have less than 5 in inventory currently.
   
-![LowInventory](/images/LowInventory.jpg)
+![LowInventory](https://github.com/ctd4wa/Bamazon/blob/master/images/LowInventory.JPG?raw=true)
   
   - "Add to Inventory" prompts the user to restock any item currently for sale.
   
@@ -32,7 +32,7 @@ The customer runs via these steps:
   
   - "Add New Product" gives the manager the chance to add a brand new item to the store.
   
-![AddNewProduct](/images/AddNewProduct.jpg)
+![AddNewProduct](https://github.com/ctd4wa/Bamazon/blob/master/images/AddNewProduct.JPG?raw=true)
   
  ## Technologies Used
  
