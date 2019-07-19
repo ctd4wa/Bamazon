@@ -28,7 +28,7 @@ The customer runs via these steps:
   
   - "Add to Inventory" prompts the user to restock any item currently for sale.
   
-![AddInventory](/images/AddInventory.jpg)
+![AddInventory](https://github.com/ctd4wa/Bamazon/blob/master/images/AddInventory.JPG?raw=true)
   
   - "Add New Product" gives the manager the chance to add a brand new item to the store.
   
