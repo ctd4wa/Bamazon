@@ -25,7 +25,7 @@ INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("LED TV", "electronics", 269.00, 16);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Razer Deathadder mouse", "electronics", 98.99, 5);
+VALUES ("Razer Deathadder Mouse", "electronics", 98.99, 5);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Spikeball set", "toys and games", 47.99, 15);
